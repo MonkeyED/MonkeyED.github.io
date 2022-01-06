@@ -1,0 +1,101 @@
+JUST IGNORE THIS FILE >:(
+
+
+
+
+
+
+
+
+yes ignore it, it's just for the developer's purpose
+
+
+
+
+
+
+
+
+// function noMoreAlertCss() {
+// 	document.cookie = "nomorealertcss:no; path=/;";
+// 	alert("You Will Not See The CSS Alert Anymore!");
+// 	return false;
+// }
+
+// if(!document.cookie.includes("nomorealertcss")) {
+// 	document.cookie = "nomorealertcss:yes;";
+// }
+
+// if(!document.cookie.includes("nomorealertcss:yes")) {
+// 	document.write(`<a class="skipnavlink" href="#content">&nbsp;Jump To Content&nbsp;</a>
+// <!-- <div class="alert">
+//   <span class="closebtn">&times;</span>  
+//   <strong>Note!</strong> As this site is still under construction, we are still writing the proper CSS for this site, please have patience as the current format may be modified or changed in the future to look better. <a href="#" onclick="return noMoreAlertCss()" style="color:white;font-weight:bold;">Disable Alert</a>
+// </div> -->
+// <ul class="navbar2">
+// 	<li class="navitem2"><img src="/static/fav.ico" class="quartersize" style="margin-left:100px;"><li>
+// 	<li class="navitem2"><a href="/" class="active">Home</a></li>
+// 	<li class="navitem2"><a href="/tutorials">Tutorials</a></li>
+// 	<div class="dropdown">
+//     <button class="dropbtn">More&#x25BC;
+//       <i class="fa fa-caret-down"></i>
+//     </button>
+//     <div class="dropdown-content">
+//       <!-- <a href="#">Link 1</a>
+//       <a href="#">Link 2</a>
+//       <a href="#">Link 3</a> -->
+// 			<p style="text-align:center;">More Coming Soon!</p>
+//     </div>
+//   </div> 
+// </ul>
+// <ul class="navbar">
+// 	<li class="navitem"><a href="/python">Python</a></li>
+// 	<li class="navitem"><a href="/javascript">JavaScript</a></li>
+// 	<li class="navitem"><a href="/html">HTML</a></li>
+// 	<li class="navitem"><a href="/css">CSS</a></li>
+// 	<li class="navitem"><a href="/cpp">C++</a></li>
+// 	<li class="navitem"><a href="/ruby">Ruby</a></li>
+// 	<li class="navitem"><a href="/php">PHP</a></li>
+// </ul>
+// <main id="content">`);
+	
+// } else {
+// 	document.write(`<a class="skipnavlink" href="#content">&nbsp;Jump To Content&nbsp;</a>
+// <div class="alert">
+//   <span class="closebtn">&times;</span>  
+//   <strong>Note!</strong> As this site is still under construction, we are still writing the proper CSS for this site, please have patience as the current format may be modified or changed in the future to look better. <a href="#" onclick="return noMoreAlertCss()" style="color:white;font-weight:bold;">Disable Alert</a>
+// </div>
+// <ul class="navbar2">
+// 	<li class="navitem2"><img src="/static/fav.ico" class="quartersize" style="margin-left:100px;"><li>
+// 	<li class="navitem2"><a href="/" class="active">Home</a></li>
+// 	<li class="navitem2"><a href="/tutorials">Tutorials</a></li>
+// 	<div class="dropdown">
+//     <button class="dropbtn">More&#x25BC;
+//       <i class="fa fa-caret-down"></i>
+//     </button>
+//     <div class="dropdown-content">
+//       <!-- <a href="#">Link 1</a>
+//       <a href="#">Link 2</a>
+//       <a href="#">Link 3</a> -->
+// 			<p style="text-align:center;">More Coming Soon!</p>
+//     </div>
+//   </div> 
+// </ul>
+// <ul class="navbar">
+// 	<li class="navitem"><a href="/python">Python</a></li>
+// 	<li class="navitem"><a href="/javascript">JavaScript</a></li>
+// 	<li class="navitem"><a href="/html">HTML</a></li>
+// 	<li class="navitem"><a href="/css">CSS</a></li>
+// 	<li class="navitem"><a href="/cpp">C++</a></li>
+// 	<li class="navitem"><a href="/ruby">Ruby</a></li>
+// 	<li class="navitem"><a href="/php">PHP</a></li>
+// </ul>
+// <main id="content">`);
+// }
+
+
+
+// 	// <li class="navitem"><a href="/" class="active"><img src="/static/fav.ico" class="monkeyicon">Home</a></li>
+
+// // <b style="color:white;margin-top:-300px;">MonkeyED</b>
+
