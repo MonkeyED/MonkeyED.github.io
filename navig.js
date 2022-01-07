@@ -27,6 +27,7 @@ document.write(`<a class="skipnavlink" href="#content">&nbsp;Jump To Content&nbs
 	<li class="navitem"><a href="/html">HTML</a></li>
 	<li class="navitem"><a href="/css">CSS</a></li>
 	<li class="navitem"><a href="/cpp">C++</a></li>
+	<li class="navitem"><a href="/c">C</a></li>
 	<li class="navitem"><a href="/ruby">Ruby</a></li>
 	<li class="navitem"><a href="/php">PHP</a></li>
 </ul>
